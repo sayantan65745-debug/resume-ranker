@@ -1,10 +1,10 @@
 # Resume Ranker
 
-A full-stack MERN application that ranks applicant resumes against
-job-specific weighted topics. Recruiters define what matters for a role
-(e.g. DSA 30%, C++ 20%, Java 15%), and the system scores every submitted
-resume against that rubric — producing a ranked list of applicants, per
-resume.
+[![Live Demo](https://img.shields.io/badge/demo-live-00fff7?style=for-the-badge)](https://resume-ranker-lac.vercel.app)
+[![Backend](https://img.shields.io/badge/API-live-ff00e5?style=for-the-badge)](https://resume-ranker-pap5.onrender.com)
+[![Made with](https://img.shields.io/badge/MERN-stack-22ff88?style=for-the-badge)](https://www.mongodb.com/mern-stack)
+
+A full-stack MERN application that ranks applicant resumes against...
 
 ## Features
 
